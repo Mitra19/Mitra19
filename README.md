@@ -100,7 +100,7 @@ class JaydebMitra:
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mitra19&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff" />
+  <img src="https://streak-stats.demolab.com/?user=Mitra19&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff" />
 </div>
 
 ---
