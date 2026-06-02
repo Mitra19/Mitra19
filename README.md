@@ -88,7 +88,7 @@ class JaydebMitra:
 > **Retinopathy Detection using Fully Convolutional Networks**
 > 🏛️ IJNRD · 2022 · Accuracy: **93.9%** · Deployed via Django
 
-[![Research Paper](https://img.shields.io/badge/View_Paper-Springer%20IJNRD-blueviolet?style=for-the-badge&logo=springer&logoColor=white)](https://www.ijnrd.org)
+[![Research Paper](https://img.shields.io/badge/View_Paper-Springer%20IJNRD-blueviolet?style=for-the-badge&logo=springer&logoColor=white)](https://www.ijnrd.org/papers/IJNRD2209173.pdf)
 
 ---
 
