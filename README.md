@@ -94,26 +94,16 @@ class JaydebMitra:
 
 ## 📊 GitHub Stats
 
-<!-- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mitra19&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&cache_seconds=1800" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mitra19&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&cache_seconds=1800" height="180"/>
-</div>
+## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Mitra19&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4FF&fire=ff6b6b&currStreakLabel=00d4FF" />
-</div> -->
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Mitra19&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Mitra19&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Mitra19&show_icons=true" />
-</picture>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mitra19&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mitra19&layout=compact&theme=tokyonight"/>
+</p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Mitra19&theme=tokyonight"/>
+</p>
 ---
 
 ## 🏆 LeetCode
