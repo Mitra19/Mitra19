@@ -99,10 +99,8 @@ class JaydebMitra:
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mitra19&layout=compact&theme=tokyonight"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Mitra19&theme=tokyonight"/>
-</p>
 ---
+
 ## 📈 Contribution Graph
 
 <p align="center">
