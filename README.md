@@ -103,7 +103,13 @@ class JaydebMitra:
   <img src="https://streak-stats.demolab.com?user=Mitra19&theme=tokyonight"/>
 </p>
 ---
+## 📈 Contribution Graph
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mitra19&theme=tokyo-night" />
+</p>
+
+---
 ## 🏆 LeetCode
 
 <div align="center">
