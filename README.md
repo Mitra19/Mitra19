@@ -133,7 +133,7 @@ class JaydebMitra:
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=4000&pause=500&color=00D4FF&center=true&vCenter=true&width=500&lines=The+best+model+is+the+one+in+production.;RAG+today%2C+AGI+tomorrow.;pip+install+jaydeb+%F0%9F%A4%96" alt="Footer Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=4000&pause=500&color=00D4FF&center=true&vCenter=true&width=500&lines=The+best+model+is+the+one+in+production.;RAG+today%2C+AGI+tomorrow.;pip+install+Batsy+%F0%9F%A4%96" alt="Footer Typing" />
 </div>
 
 <div align="center">
